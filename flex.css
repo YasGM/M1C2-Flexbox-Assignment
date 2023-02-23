@@ -33,10 +33,9 @@
     margin: 5px;
 }
 
-
-/* No entiendo el flexFour */
 .flexFour {
     display: flex;
+    flex-wrap: wrap;
     width: 350px;
 }
 
